@@ -365,6 +365,16 @@ section.statistics .overlay {
     padding: 100px 0;
 }
 
+section.statistics .overlay h1{
+    margin-bottom: 50px;
+    margin-top: auto;
+    padding: auto;
+    position: relative;
+    color: #f4f3f3;
+    font-size: 50px;
+    top:-25px;
+}
+
 /* تنسيقات الخط المطبقة على الفقرة النصية في قسم المهارات */
 
 section.statistics .overlay .stat p {
